@@ -2,8 +2,12 @@
     float: right;
 }
 
-.fotos{
-    text-align: center;
-    width: 25%;
-    
+.col-izq{
+    width: 50%;
+    float: left;
+}
+
+.col-der{
+    width:50%;
+    float: right;
 }
