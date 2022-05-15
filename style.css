@@ -1,13 +1,119 @@
-.probando{
-    float: right;
-}
+
 
 .col-izq{
-    width: 50%;
     float: left;
+    width: 50%;
 }
 
 .col-der{
-    width:50%;
+    float: left;
+    width: 50%;
+       
+}
+
+.margen{
+    margin-top: -10px;
+}
+    
+
+.alineacion{
+    text-align: center;
+    border: 1px solid 80px;
+    padding: 80px;
+}
+
+.logo {
+    bottom: 40px;
+    position:fixed;
+    right: 10px;
+    height: 10px;
+
+}
+
+.logo-2{
+    bottom: 60px;
+    position:fixed;
+    right: 10px;
+    
+
+}
+
+.espacio{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.de-prueba-izquierda{
+    float:left;
+    width: 65%;
+    border: 1px solid grey;
+    margin-bottom: 20px;
+    
+}
+
+.de-prueba-derecha{
+    float:right;
+    width: 34%;
+    border: 1px solid grey ;
+    padding: 10px;
+    
+
+}
+
+.algo{
+    margin-top: 220px;
+    border: 1px solid grey;
+    background-color: grey;
+    
+}
+
+.fotardas{
+    display: inline;
+    margin-left: 10px;
+    margin-right: 50px;
+}
+
+.otra-fotarda{
+    display: inline;
+    margin-left: 20px;
+}
+
+
+.margen2{
+    text-align: center;
+    margin-top: 600px;
+}
+
+
+.columna-izquierda{
+    float: left;
+    width: 33.3333333%;
+    object-fit: cover;
+   
+}
+
+.columna-medio{
+    float: left;
+    width: 33.3333333%;
+    object-fit: cover;
+    
+}
+
+.columna-derecha{
     float: right;
+    width: 33.3333333%;
+    object-fit: cover;
+}
+
+.titulo-lugares{
+    margin-top: 500px;
+    border:4px solid brown;
+    background-color: brown;
+    text-align: center;
+    padding: 10px;
+}
+
+.espacio-lugares{
+   margin-top: 40px;
+   text-align: center;
 }
