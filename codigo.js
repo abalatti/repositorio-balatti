@@ -83,7 +83,7 @@ console.log (paises.splice(paises.indexOf(eliminar),1))
 
 
 console.log(paises.splice(paises.indexOf("Portugal"),1))
-*/
+
 
 let letras = ["a", "b", "c", "d"]
 
@@ -93,3 +93,12 @@ console.log (letras.splice(letras.indexOf(eliminar), 1 ))
 
 console.log (letras)
 
+*/
+
+function multiply(numero1,numero2){
+   resultado=Number (numero1*numero2)
+
+  }
+  
+
+multiply(10,10)
